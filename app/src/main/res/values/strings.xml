@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LearnLocate</string>
+    <string name="user_login">USER LOGIN</string>
+    <string name="categories">CATEGORIES</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <string name="home">home\n</string>
+    <string name="my_account">my_account\n</string>
+    <!--    <string name="Search">Search</string>-->
+    <string name="Home">Home\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_image" />
+    <string name="courses">Courses</string>
+    <string name="quizes">Quizes</string>
+    <string name="assignments">Assignments</string>
+</resources>

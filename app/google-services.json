@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814078223144",
+    "project_id": "learn-locate",
+    "storage_bucket": "learn-locate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814078223144:android:f09129964e4473d877661d",
+        "android_client_info": {
+          "package_name": "com.example.demo1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgrDOppy3slPNbLdJ1flUucwfGCEOnk1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
